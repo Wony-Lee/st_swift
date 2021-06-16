@@ -3,8 +3,8 @@
 #### 2 Day
 #### 3 Day
 #### 4 Day
-#### 5 Day
-
+#### 5 Day   
+#### 6 Day
 [Swift Notion](https://www.notion.so/Swift-2e5eef3f8e0b4988908ebd6ff5b8d780)   
 ```   
 1. 기본 자료형   
@@ -24,4 +24,8 @@
   - if문   
   - guard 문   
   - switch 문   
+6. Class and Struct
+  - 클래스와 구조체   
+  - 클래스의 상속   
+  - 업캐스팅 다운캐스팅   
 ```
