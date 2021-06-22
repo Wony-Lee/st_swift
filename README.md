@@ -12,6 +12,7 @@
 #### 4 Day
 #### 5 Day   
 #### 6 Day
+#### 7 Day
 
 [Swift Notion](https://www.notion.so/Swift-2e5eef3f8e0b4988908ebd6ff5b8d780)   
 ```   
@@ -39,4 +40,6 @@
   - 생성자   
     - 기본 생성자   
     - 지정 생성자   
+7. Array
+  - Array 생성
 ```
